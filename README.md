@@ -1,4 +1,6 @@
-# ex-les-bdd
-Exercicios de BDD - Laboratório de Engenharia de Software
+# Diario de Bordo
 
-Posts sobre a resolução dos exercícios no blog: https://mateusdc21.gitbooks.io/diario-de-bordo
+Espaço para escrever sobre os exercícios e atividades da disciplina LES - Laboratório de Engenharia de Software
+
+Link do blog: [https://mateusdc21.gitbooks.io/diario-de-bordo](https://mateusdc21.gitbooks.io/diario-de-bordo)
+

@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Primeiro Post](primeiro-post.md)
+* [\#1 Exercícios](primeiro-post.md)
+* [\#2 Metodologia Ágil](2-metodologia-agil.md)
 

@@ -1,3 +1,9 @@
+# ex-les-bdd
+
+Exercicios de BDD - Laboratório de Engenharia de Software
+
+Posts sobre a resolução dos exercícios no blog: [https://mateusdc21.gitbooks.io/diario-de-bordo](https://mateusdc21.gitbooks.io/diario-de-bordo)
+
 ## 06/04/2017 - O começo
 
 Já dizia o ditado, antes tarde do que nunca. Enfim sentei pra me dedicar aos exercícios ontem à noite e então começar toda aquela configuração trabalhosa para poder trabalhar com o cucumber no eclipse. Algumas horas \(e palavrões fofinhos, e. g. pantufa apertada\) depois, consegui colocar o projeto pronto para usar e começar a escrever os cenários do BDD para os exercícios.
@@ -13,8 +19,4 @@ Chegando a parte que interessa, fui escrever os testes. Foi a primeira vez que t
 Para o exercício do imposto de renda, criei um cenário apenas, descrevendo como dado o salário bruto que a pessoa recebe por mês, e quando ela vai calcular o valor a ser pago de imposto, então validamos se o sistema se comporta de maneira adequada retornando o valor esperado de acordo com a faixa de cálculo que a pessoa se encontra.
 
 Além disso apliquei também o padrão Estratégia conforme o enunciado pedia, para deixar o código mais organizado e com melhor manutenabilidade.
-
-
-
-
 
